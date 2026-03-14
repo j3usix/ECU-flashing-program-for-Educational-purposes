@@ -1,5 +1,7 @@
 README.md
 
+#--- Working on the ecu_gui.py currently keep getting an error code ---#
+
 ECU Flashing Program (Open‑Source, Non‑Commercial)
 https://copilot.microsoft.com/th/id/BCO.aea89b25-e363-4c3e-b5f0-76ffb3c30655.png
 
